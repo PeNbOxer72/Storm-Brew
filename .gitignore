@@ -1,0 +1,6 @@
+*.log
+__pycache__/
+*.pyc
+*.exe
+/node_modules/
+*.zip
